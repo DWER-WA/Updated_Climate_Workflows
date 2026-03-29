@@ -1,9 +1,3 @@
-# climate-tools-v2
-
-A collection of updated Python Jupyter notebooks for extracting, analysing, and visualising climate data from **NARCliM2.0** rotated WRF grids. These notebooks are designed to be reusable, production-ready workflows with a single configuration cell to adapt each notebook to different datasets, regions, or variables.
-
----
-
 ## Notebooks
 
 ### 1. `MaskingWorkflow.ipynb` — Climate Region Masking
